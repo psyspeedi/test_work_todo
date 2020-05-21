@@ -1,24 +1,19 @@
-# procontext-test-todo-app
+# test-work-todo
 
-## Project setup
+## Для того чтобы развернуть проет локально необходимо выполнить следующие действия
+
+### 1. Скачать репозиторий и в корневой директории выполнить
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 2. После установки зависимостей выполнить команду
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 3. Перейти по адресу
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+http://localhost:8080/ 
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
