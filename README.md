@@ -17,3 +17,8 @@ npm run serve
 http://localhost:8080/ 
 ```
 
+### 4. Так же доступно по адресу
+```
+https://test-work-todo-vue.web.app/
+```
+
